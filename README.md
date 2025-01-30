@@ -18,7 +18,7 @@ Cargo will by default install rust binaries to `~/.cargo/bin` so add it to your 
 
 ## Demo
 ![Terminal showing the output of `namefrench "Avery Solara"` to be `éeVursilitéeEuaoixri grec Jean-pierre974🇱éerée`](demos/namefrench-avery-solara.jpg)
-<sup><sub>A normal name in `namefrench`</sub></sup>
+<br><sup><sub>A normal name in `namefrench`</sub></sup>
 
 ![Terminal showing the output of `namefrench "I will use = special ; symbols ! 123´ to be `Iàèìòù 2€Iàèìòù🇱🇱 UeJean-pierreEuaoix = Jean-pierrepetEuaoixcieIàèìòùée🇱 ; Jean-pierrei grecMeu (comme une vache xptdrrr)bou974🇱Jean-pierre ! 123`"](demos/namefrench-special-symbols.jpg)
-<sup><sub>While capital letters A-Z will be made lowercase, only letters a-z can be converted. Other symbols will be ignored</sub></sup>
+<br><sup><sub>While capital letters A-Z will be made lowercase, only letters a-z can be converted. Other symbols will be ignored</sub></sup>
