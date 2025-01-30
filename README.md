@@ -4,6 +4,8 @@
 ## Use
 Once installed you can just run `namefrench ` and then chain as many arguments as you want!! they will be output without the spaces in between them though, converted to "french" in the stdout!!
 
+If you do not want to install the program through cargo, you can also download the latest release under the release tags for your platform and architecture!
+
 ## Build
 You need to install [cargo and rust](https://doc.rust-lang.org/cargo/getting-started/installation.html) to build it.
 Once you've cloned the repository (you can use `git clone https://github.com/moddingforreal/namefrench`) run `cargo build` to build or `cargo run <args>` to immediately run the program. Append the `--release` flag to either of them to optimize for release.
