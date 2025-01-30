@@ -1,5 +1,5 @@
 # namefrench - the tool to french your name!!!!
-<img src="write-your-name-in-french.jpg" height=30%></img>
+<img src="write-your-name-in-french.jpg" height=150px></img>
 
 ## Use
 tbi
